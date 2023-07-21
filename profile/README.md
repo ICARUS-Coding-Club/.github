@@ -7,7 +7,7 @@
 
     
 #### 💡 설명
-    멘토 멘티 활동을 통해 비전공자들도 쉽게 코딩을 할 수 있도록 함께 공부하는 코딩 공부 동아리입니다.
+    멘토 멘티 활동을 통해 비전공자들도 쉽게 코딩을 할 수 있도록 함께 공부하는 코딩 공부 동아리
 
     
 #### 🪙 31기 수상
@@ -27,7 +27,7 @@
 
 
 #### ✏️ 공부 언어
-    C/C++, Python3, MySQL, JAVA, Kotlin
+    C/C++, C#, Python3, MySQL, JAVA, Kotlin
     
 #### 🧰 개발 환경
     PyCharm, VisualStdioCode, AndroidStdio
